@@ -17,7 +17,7 @@ border: border-box;
     width: 100px;
 }
 .logo{
-    background-image: url(/last.webp);
+    background-image: url(CSS/last.webp);
     height: 50px;
     background-size: cover;
     width: 100%;
@@ -119,7 +119,7 @@ color: #0f1111;
 }
 /**hero section**/
 .hero-sction{
-    background-image: url(/heero.jpg);
+    background-image: url(CSS/heero.jpg);
     background-size: cover;
     height: 350px;
  display: flex;
@@ -212,10 +212,10 @@ ul a{
     
 }
    .logo1{
-     background-image: url(/last.webp);
+     background-image: url(CSS/last.webp);
     height: 40px;
     background-size: cover;
     width: 5rem;
-}
+   }
 
    
